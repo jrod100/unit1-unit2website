@@ -66,8 +66,10 @@ p {
     border-style: solid;
     border-color: white;
     margin: 10px 25px 10px;
-    /* display: flex;
+}
+
+.funlink {
+    display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center; */
+    align-content: flex-end;
 }
